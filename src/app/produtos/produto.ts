@@ -2,7 +2,7 @@ export class Produto {
     id: string;
     nome: string;
     valor: string;
-    promocao: string;
+    promocao: boolean;
     valorPromo: string;
     imagem: string;
 }
